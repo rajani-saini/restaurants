@@ -1,4 +1,4 @@
-# frontend-interview-test
+# restaurant app
 
 1. Bare bones Create React App boilerplate
 2. React Hooks
@@ -14,8 +14,8 @@
 ## Setup
 
 ```bash
-git clone git@github.com:rajani-saini/frontend-interview-test.git
-cd frontend-interview-test
+git clone git@github.com:rajani-saini/restaurants.git
+cd restaurants
 npm install or yarn install
 ```
 
